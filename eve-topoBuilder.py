@@ -308,7 +308,6 @@ def buildTopo(serverIP, topo):
         hideNetVisibility(serverIP, netID)
 
 
-#buildTopo(serverIPaddress, topo)
-print (json.dumps(json.loads(getNodes(serverIPaddress).text), indent=5))
+buildTopo(serverIPaddress, topo)
 
 
