@@ -1,5 +1,8 @@
 # eve-topoBuilder
+
 Create EVE-NG Topology as eay as 1-2-3.
+This script is leveraging EVE-NG RestAPI to automate lab topology creation in EVE.
+
 
 -=HOW TO USE=-
 
