@@ -231,10 +231,10 @@ def setNodeObjectAtr(nodeObject, attributeDict):
 ### - / generalized the API path
 ### - / randomised node and net coordinate
 
-serverIPaddress = '135.241.247.222'
+serverIPaddress = '192.168.1.222'
 credential =  json.dumps({
         "username": "admin",
-        "password": "mainstreet"
+        "password": "eve"
         })
 
 topology = {('R1', '1'): ('B2', '1'),
