@@ -2,7 +2,7 @@ import requests
 import json
 import time
 import datetime
-#from sandbox import credential
+# the code is partially "stolen" from https://github.com/slarimore02/eve-ng-python-sdk
 
 # aarafat-tag:
 # lab object with default parameter
